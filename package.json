@@ -1,0 +1,19 @@
+{
+  "name": "matthieuvictor_3_06052021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "ass --watch ./sass/main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrperry-creator/MatthieuVictor_3_06052021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrperry-creator/MatthieuVictor_3_06052021/issues"
+  },
+  "homepage": "https://github.com/mrperry-creator/MatthieuVictor_3_06052021#readme"
+}

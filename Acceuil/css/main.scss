@@ -1,0 +1,21 @@
+$colors: (
+  primary: bright(#9356dc),
+  secondary: lighten(#ff79da),
+  tertiaire: mint(#99e2d0),
+);
+
+$desktop: 840px;
+
+body {
+  font-family: "Shrikhand", "roboto", sans-serif;
+  margin: 0;
+  background-color: bright(primary);
+  #bg {
+    background-color: color(primary);
+    clip-path: polygon(100% 0, 100% 70%, 50% 90%, 0 70%, 0 0);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+  }
+}
